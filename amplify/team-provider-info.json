@@ -1,0 +1,20 @@
+{
+    "ios": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifypredictions-ios-41258-authRole",
+            "UnauthRoleArn": "arn:aws:iam::870548272242:role/amplify-amplifypredictions-ios-41258-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::870548272242:role/amplify-amplifypredictions-ios-41258-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifypredictions-ios-41258-deployment",
+            "UnauthRoleName": "amplify-amplifypredictions-ios-41258-unauthRole",
+            "StackName": "amplify-amplifypredictions-ios-41258",
+            "StackId": "arn:aws:cloudformation:us-east-1:870548272242:stack/amplify-amplifypredictions-ios-41258/6d3b5e00-7c95-11ea-b334-0e9711d18427",
+            "AmplifyAppId": "d2bbzrexxfo1mt"
+        },
+        "categories": {
+            "auth": {
+                "amplifypredictions8e823f5f": {}
+            }
+        }
+    }
+}

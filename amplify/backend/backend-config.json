@@ -1,0 +1,17 @@
+{
+	"auth": {
+		"amplifypredictions8e823f5f": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"predictions": {
+		"speechGeneratorSample": {
+			"providerPlugin": "awscloudformation",
+			"service": "Polly",
+			"convertType": "speechGenerator"
+		}
+	}
+}
