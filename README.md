@@ -1,3 +1,10 @@
+This project uses Swift 5.0 and develops on iOS 13.0. Based on the documentations and sample iOS app at following resources:
+
+https://aws.amazon.com/blogs/mobile/introducing-aws-amplify-for-ios-and-android/
+
+https://docs.amplify.aws/start/getting-started/setup?integration=ios#step-1-configure-your-app
+
+
 # Predictions
 
 AWS Amplify Predictions category for iOS provides a way to use machine learning in your app without any machine learning expertise. The Predictions category comes with built-in support for offline usage supported by Apple's CoreML Vision framework. With the CoreML Vision framework, we are able to support both offline and online use cases with automatic switching between the two unless indicated otherwise. In addition to providing automatic network support per device, we also provide a union of both the cloud models as well as the offline models to provide you the most accurate results for each of the use cases Apple's CoreML Vision Framework supports. An asterisk below indicates the use case is supported by CoreML and a merged accurate result will be returned if the device is online. Some supported use cases include:
